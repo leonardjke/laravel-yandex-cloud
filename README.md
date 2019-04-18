@@ -21,7 +21,7 @@ And then you can use
 
 to get your yandex cloud storage instance
 
-##How to check?
+## How to check?
 ```
 php artisan tinker
 ```
@@ -30,4 +30,4 @@ php artisan tinker
 Storage::disk('yandexcloud')->put('hello.txt', 'check text');
 Storage::disk('yandexcloud')->files();
 Storage::disk('yc')->url('hello.txt');
-``
+```
