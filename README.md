@@ -1,4 +1,4 @@
-# Yandex Object Storage
+# Yandex Object Storage for Laravel
 Adding configuration for working with Yandex cloud storage to Laravel
 
 ## Usage
