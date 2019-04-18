@@ -39,7 +39,7 @@ php artisan tinker
 ```
 Storage::disk('yandexcloud')->put('hello.txt', 'check text');
 Storage::disk('yandexcloud')->files();
-Storage::disk('yc')->url('hello.txt');
+Storage::disk('yandexcloud')->url('hello.txt');
 ```
 ## Cloud documentation
 https://cloud.yandex.ru/docs/storage/hosting/
