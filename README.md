@@ -3,6 +3,12 @@ Adding configuration for working with Yandex cloud storage to Laravel
 
 ## Usage
 
+To work with Yandex Object Storage, you need to add a package using the Composer:
+
+```
+composer require league/flysystem-aws-s3-v3 ~1.0
+```
+
 Add the following code to your config/filesystems.php
 
 ```
