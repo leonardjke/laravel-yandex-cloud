@@ -1,8 +1,5 @@
-# yandex-object-storage
-Adding configuration for working with Yandex cloud storage to Laravel
-
-
 # Yandex Object Storage
+Adding configuration for working with Yandex cloud storage to Laravel
 
 ## Usage
 
