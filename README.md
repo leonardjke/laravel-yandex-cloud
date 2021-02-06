@@ -42,4 +42,4 @@ Storage::disk('yandexcloud')->files();
 Storage::disk('yandexcloud')->url('hello.txt');
 ```
 ## Cloud documentation
-https://cloud.yandex.ru/docs/storage/hosting/
+https://cloud.yandex.ru/docs/storage/quickstart
